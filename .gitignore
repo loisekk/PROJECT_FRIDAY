@@ -1,0 +1,5 @@
+fake_api_project
+venv/
+_pycache_/*.cpython-313.pyc
+main1.py
+main.py
